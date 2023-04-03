@@ -58,5 +58,37 @@ Supplementary materials for DAFx2023 submission.
 	  <td><audio controls src="./media/SpectralMorphingResults/SpectralMorphingDemo 11-010.wav" style="width:100px;height:50px;"></audio></td>
 	  <td><audio controls src="./media/VAEResults/SpectralMorphingDemo 11-010.wav" style="width:200px;height:50px;"></audio></td>
   </tr>
+  <tr>
+    <td>#7</td>
+    <td><audio controls src="./media/RWC-Clipped/SpectralMorphingDemo 13-012.wav" style="width:100px;height:50px;"></audio></td>
+    <td><audio controls src="./media/RWC-Clipped/SpectralMorphingDemo 14-013.wav" style="width:100px;height:50px;"></audio></td>
+    <td><audio controls src="./media/HPSSResults/SpectralMorphingDemo 13-012.wav" style="width:100px;height:50px;"></audio></td>
+	  <td><audio controls src="./media/SpectralMorphingResults/SpectralMorphingDemo 13-012.wav" style="width:100px;height:50px;"></audio></td>
+	  <td><audio controls src="./media/VAEResults/SpectralMorphingDemo 13-012.wav" style="width:200px;height:50px;"></audio></td>
+  </tr>
+  <tr>
+    <td>#8</td>
+    <td><audio controls src="./media/RWC-Clipped/SpectralMorphingDemo 15-041.wav" style="width:100px;height:50px;"></audio></td>
+    <td><audio controls src="./media/RWC-Clipped/SpectralMorphingDemo 16-015.wav" style="width:100px;height:50px;"></audio></td>
+    <td><audio controls src="./media/HPSSResults/SpectralMorphingDemo 15-041.wav" style="width:100px;height:50px;"></audio></td>
+	  <td><audio controls src="./media/SpectralMorphingResults/SpectralMorphingDemo 15-041.wav" style="width:100px;height:50px;"></audio></td>
+	  <td><audio controls src="./media/VAEResults/SpectralMorphingDemo 15-041.wav" style="width:200px;height:50px;"></audio></td>
+  </tr>
+  <tr>
+    <td>#9</td>
+    <td><audio controls src="./media/RWC-Clipped/SpectralMorphingDemo 17-016.wav" style="width:100px;height:50px;"></audio></td>
+    <td><audio controls src="./media/RWC-Clipped/SpectralMorphingDemo 18-017.wav" style="width:100px;height:50px;"></audio></td>
+    <td><audio controls src="./media/HPSSResults/SpectralMorphingDemo 17-016.wav" style="width:100px;height:50px;"></audio></td>
+	  <td><audio controls src="./media/SpectralMorphingResults/SpectralMorphingDemo 17-016.wav" style="width:100px;height:50px;"></audio></td>
+	  <td><audio controls src="./media/VAEResults/SpectralMorphingDemo 17-016.wav" style="width:200px;height:50px;"></audio></td>
+  </tr>
+  <tr>
+    <td>#10</td>
+    <td><audio controls src="./media/RWC-Clipped/SpectralMorphingDemo 19-028.wav" style="width:100px;height:50px;"></audio></td>
+    <td><audio controls src="./media/RWC-Clipped/SpectralMorphingDemo 20-027.wav" style="width:100px;height:50px;"></audio></td>
+    <td><audio controls src="./media/HPSSResults/SpectralMorphingDemo 19-028.wav" style="width:100px;height:50px;"></audio></td>
+	  <td><audio controls src="./media/SpectralMorphingResults/SpectralMorphingDemo 19-028.wav" style="width:100px;height:50px;"></audio></td>
+	  <td><audio controls src="./media/VAEResults/SpectralMorphingDemo 19-028.wav" style="width:200px;height:50px;"></audio></td>
+  </tr>
 
 </table>
